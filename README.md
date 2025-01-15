@@ -1,5 +1,5 @@
 
-# Getting Started with pplus-subscription-papi
+# Getting Started with Pearson Subscriptions API
 
 ## Building
 
@@ -17,7 +17,7 @@ Run the following commands in the command prompt or shell of your choice to chec
 
 * npm: `npm --version`
 
-![Version Check](https://apidocs.io/illustration/typescript?workspaceFolder=PplusSubscriptionPapi&step=versionCheck)
+![Version Check](https://apidocs.io/illustration/typescript?workspaceFolder=PearsonSubscriptionsAPI&step=versionCheck)
 
 ### Install Dependencies
 
@@ -29,7 +29,7 @@ npm install
 
 - This will install all dependencies in the **node_modules** folder.
 
-![Resolve Dependencies](https://apidocs.io/illustration/typescript?workspaceFolder=PplusSubscriptionPapi&workspaceName=pplus-subscription-papilib&step=resolveDependency)
+![Resolve Dependencies](https://apidocs.io/illustration/typescript?workspaceFolder=PearsonSubscriptionsAPI&workspaceName=pearson-subscriptions-apilib&step=resolveDependency)
 
 ## Installation
 
@@ -53,9 +53,9 @@ npm init --y
 
 ### 2. Add Dependencies to the Client Library
 
-- The created project manages its dependencies using its `package.json` file. In order to add a dependency on the *pplus-subscription-papiLib* client library, double click on the `package.json` file in the bar on the left and add the dependency to the package in it.
+- The created project manages its dependencies using its `package.json` file. In order to add a dependency on the *Pearson Subscriptions APILib* client library, double click on the `package.json` file in the bar on the left and add the dependency to the package in it.
 
-![Add PplusSubscriptionPapilib Dependency](https://apidocs.io/illustration/typescript?workspaceFolder=PplusSubscriptionPapi&workspaceName=pplus-subscription-papilib&step=importDependency)
+![Add PearsonSubscriptionsApilib Dependency](https://apidocs.io/illustration/typescript?workspaceFolder=PearsonSubscriptionsAPI&workspaceName=pearson-subscriptions-apilib&step=importDependency)
 
 - To install the package in the project, run the following command in the terminal:
 
@@ -63,11 +63,11 @@ npm init --y
 npm install
 ```
 
-![Install PplusSubscriptionPapilib Dependency](https://apidocs.io/illustration/typescript?step=installDependency)
+![Install PearsonSubscriptionsApilib Dependency](https://apidocs.io/illustration/typescript?step=installDependency)
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.0/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.1/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -112,11 +112,11 @@ const client = new Client({
 
 ## List of APIs
 
-* [Health](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.0/doc/controllers/health.md)
-* [Subscriptions](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.0/doc/controllers/subscriptions.md)
+* [Health](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.1/doc/controllers/health.md)
+* [Subscriptions](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.1/doc/controllers/subscriptions.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.0/doc/api-response.md)
-* [ApiError](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.0/doc/api-error.md)
+* [ApiResponse](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.1/doc/api-response.md)
+* [ApiError](https://www.github.com/sdks-io/pearson-subscription-sdk-ts/tree/1.0.1/doc/api-error.md)
 

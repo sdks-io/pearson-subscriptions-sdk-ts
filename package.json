@@ -26,7 +26,7 @@
     "trailingComma": "es5",
     "quoteProps": "preserve"
   },
-  "name": "pplus-subscription-papilib",
+  "name": "pearson-subscriptions-apilib",
   "description": "TODO : Enter description",
   "author": {
     "name": "APIMATIC SDK Generator"
